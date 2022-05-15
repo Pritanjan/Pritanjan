@@ -1,4 +1,4 @@
-### Hi there I'm Pritanjan  👋
+### Hi there 👋 I'm Pritanjan  
 
 <!--
 **Pritanjan/Pritanjan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
