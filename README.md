@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 
 <h1 align = "center"> Hi there 👋 I'm Pritanjan  </h1>
 <p align = "left">  
-    <a href = "https://twitter.com/Pritanjan2" target = "blank">
+<!--     <a href = "https://twitter.com/Pritanjan2" target = "blank">
         <img src = "https://img.shields.io/twitter/follow/Pritanjan2?logo=twitter&style=for-the-badge" alt "Pritanjan" />
     </a>
-</p>
+</p> -->
+   
 
