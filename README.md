@@ -23,7 +23,7 @@ Here are some ideas to get you started:
     </a>
 </p> -->
 
-<a href = "https://www.linkedin.com/in/pritanjan-baranwal-5aa9b9200/" target = "blank"><img align = "center" src "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height = "30" width = "40"> </a>
+<a href = "https://www.linkedin.com/in/pritanjan-baranwal-5aa9b9200/" target = "blank"><img align = "center" src "https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height = "30" width = "40" /> </a>
 
    
 
