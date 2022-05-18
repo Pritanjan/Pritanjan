@@ -22,5 +22,8 @@ Here are some ideas to get you started:
         <img src = "https://img.shields.io/twitter/follow/Pritanjan2?logo=twitter&style=for-the-badge" alt "Pritanjan" />
     </a>
 </p> -->
+
+<a href = "https://www.linkedin.com/in/pritanjan-baranwal-5aa9b9200/" target = "blank"><img align = "center" src "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height = "30" width = "40"> </a>
+
    
 
