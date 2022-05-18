@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align = "center"> Hi there 👋 I'm Pritanjan  </h1>
 
-📫 How to reach me **https://www.linkedin.com/in/pritanjan-baranwal-5aa9b9200/**
+<!-- 📫 How to reach me **https://www.linkedin.com/in/pritanjan-baranwal-5aa9b9200/** -->
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Pritanjan&label=Profile%20views&color=0e75b6&style=flat"/> </p>
 
