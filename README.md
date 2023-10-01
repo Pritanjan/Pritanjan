@@ -141,3 +141,5 @@ src = "https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="
 
 
  
+
+[![An image of @pritanjan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pritanjan)](https://holopin.io/@pritanjan)
