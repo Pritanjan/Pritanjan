@@ -27,8 +27,7 @@ Here are some ideas to get you started:
     </a>
 </p> -->
 
-<a href = "https://www.linkedin.com/in/pritanjan-baranwal-5aa9b9200/" target = "blank"><img align = "center" 
-src = "https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pritanjan baranwal"  height = "30" width = "40" /> </a>
+
 
 
 
@@ -125,9 +124,6 @@ src = "https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="
 
 ---
 
-
-  
-
 <h3 align="left">Connect with me:</h3>
 <!--  <a href="https://www.instagram.com/arjyo74/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arjyo851" height="30" width="40" /></a>  -->
 <!--  <a href="https://www.hackerrank.com/arjyo77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arjyo851" height="30" width="40" /></a>  -->
@@ -141,5 +137,12 @@ src = "https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="
 
 
  
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pritanjan&show_icons=true&locale=en&layout=compact" alt="Pritanjan" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pritanjan&show_icons=true&locale=en" alt="Pritanjan" /></p>
+
+
+
 
 [![An image of @pritanjan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pritanjan)](https://holopin.io/@pritanjan)
