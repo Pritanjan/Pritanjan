@@ -37,11 +37,11 @@
 <br>
 <h2>📊 Github Stats</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pritanjan&layout=compact&theme=onedark)](https://github.com/Pritanjan/github-readme-stats)
-![Pritanjan's github stats](https://github-readme-stats.vercel.app/api?username=Pritanjan&theme=onedark)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pritanjan&layout=compact&theme=onedark)](https://github.com/Pritanjan/github-readme-stats) -->
 
-<!--  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pritanjan&show_icons=true&locale=en&layout=compact" alt="Pritanjan" /></p>
---> 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pritanjan&show_icons=true&locale=en&layout=compact&theme=onedark" alt="Pritanjan" /></p>
+
+![Pritanjan's github stats](https://github-readme-stats.vercel.app/api?username=Pritanjan&theme=onedark)
 
 <br>
 
