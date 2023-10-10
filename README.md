@@ -43,6 +43,8 @@
 
 ![Pritanjan's github stats](https://github-readme-stats.vercel.app/api?username=Pritanjan&theme=onedark)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Pritanjan&theme=onedark)](https://git.io/streak-stats)
+
 <br>
 
 ### Languages and Tools:
